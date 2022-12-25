@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @noraalsadeg
-- 👀 I’m specialized in computer science, Software Engineering
-- 🌱 I’m intreseted in the development of AI
+- 👀 I’m specialized in computer science, AI
+- 🌱 I’m intreseted in the development of UAV Systems
 - 💞️ I’m looking to collaborate on virtual collaboration
-- 📫 you can reach me thrpugh twitter @NoraAlSadeg , other platforms @byNoraAlSadeg
+- 📫 you can reach me through twitter @NoraAlSadeg 
 
 <!---
 noraalsadeg/noraalsadeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
